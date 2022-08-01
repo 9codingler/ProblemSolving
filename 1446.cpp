@@ -35,5 +35,6 @@ int main() {
     }
 
     cout << map[d];
-
+	
+    return 0;
 }
